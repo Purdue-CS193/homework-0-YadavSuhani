@@ -1,3 +1,16 @@
+# Suhani's First CS193 Homework!
+
+## Here are some things I love about CS193:
+
+- The fact that it's taught by (awesome) students themselves!
+- The class teaches ways to use tools which are so important for a career in CS, and I won't find this in any of the lecture classes
+- The amazing powerpoint presentations, ice-breakers, and memes!
+
+
+
+## Here's some help I got to work on this homework assignment:
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
